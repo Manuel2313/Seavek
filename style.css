@@ -1,0 +1,43 @@
+body{
+    background-image: url(img/background.png) ;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.ul-icons{
+    font-size: 30px;
+    color: black;
+    list-style: none;
+    text-decoration: none;
+}
+.icons {
+    padding: 13px;
+    font-size: 30px;
+    width: 90px;
+    
+}
+li{
+    color: rgb(66, 103, 178);
+}
+.logo{
+    position: absolute;
+    top: 50px;
+    left: 210px;
+}
+.arrow{
+    position: absolute;
+    top: 625px;
+    width: 100px;
+    width: 0; 
+    height: 0; 
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+  
+  border-top: 20px solid black;
+}
+.h1 h1{
+    position: absolute;
+    left: 1000px;
+    top: 20px;
+    color: white;
+}
