@@ -431,7 +431,7 @@ section {
 }
 
 .section-bg {
-  background-color:#2f4d5a ;
+  background-color:#368baf ;
 }
 
 .section-title {
@@ -650,7 +650,7 @@ section {
   line-height: 40px;
   display: block;
   font-weight: 700;
-  color: #2f4d5a;
+  color: #203842;
   margin-left: 60px;
 }
 
@@ -659,7 +659,7 @@ section {
   margin: 0 0 0 60px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-  color: #49788c;
+  color: #0e0f0f;
 }
 
 .counts .count-box a {
