@@ -50,11 +50,11 @@
           <li class="active"><a href="#header">Home</a></li>
           <li><a href="#about">Sobre nos</a></li>
           <li><a href="#portfolio">produtos</a></li>
-          <li><a href="#team">Team</a></li>
-          <li class="drop-down"><a href="">Drop Down</a>
+          <li><a href="#team">Lojista</a></li>
+          <li class="drop-down"><a href="">drop-dpwn</a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="drop-down"><a href="#">Drop Down 2</a>
+              <li><a href="#">Franquias</a></li>
+              <li class="drop-down"><a href="#">drop-down</a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
                   <li><a href="#">Deep Drop Down 2</a></li>

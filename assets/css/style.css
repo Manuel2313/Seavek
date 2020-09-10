@@ -431,8 +431,9 @@ section {
 }
 
 .section-bg {
-  background-color:#368baf ;
+  background-color:#368baf;
 }
+
 
 .section-title {
   text-align: center;
@@ -630,7 +631,11 @@ section {
 # Counts
 --------------------------------------------------------------*/
 .counts {
+  
   padding-bottom: 30px;
+}
+.bg-counts{
+  background-color: lightblue;
 }
 
 .counts .count-box {
